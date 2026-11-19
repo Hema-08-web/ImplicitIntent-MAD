@@ -22,11 +22,9 @@ Latest Version Android Studio
 
 ## PROGRAM:
 ```
-/*
 Program to print the text “Implicitintent”.
 Developed by: HEMA D
 Registeration Number :212225220038
-*/
 ```
 ## MainActivity.java
 ```
